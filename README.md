@@ -1,5 +1,6 @@
 # my-website
 TEKERLEKLİ SANDALYE RAMPASI
+  
   Tekerlekli sandalye kullanan bireyler, günlük yaşamlarında kaldırımlardan iniş ve çıkışlarda çeşitli rampalar kullanmaktadır. Bu rampalar bilinçsiz araç şoförlerin yanlış park etmesi sebebiyle tekerlekli sandalye kullanan bireylerinin doğru şekilde kullanması engellenmektedir. Rampaların önüne araç park edildiği zaman tekerlekli sandalye kullanan bireyler, rampalardan inmekte çeşitli zorluklar yaşamakta veya farklı yollar terich ederek kendilerini riske atmaktadır. Tekerlekli sandalye kullanan bireyler rampaların önüne bilinçsizce araç park edildiği zaman çeşitli zorluklarla karşı karşıya gelmekte ve çoğu zaman riskli yollar tercih etmektedir. 
 
   Proje, rampaların önünde bulunan yapay zeka destekli kameralardan oluşmaktadır. Yapay zeka destekli kameralar, rampanın önüne park eden aracı tespit etmekte ve sisteme bir bildiri göndermektedir. Bildiriyi alan sistem rampanın yanında bulunan tabelalarla bildiri vermektedir. Bildiri alındığı anda yazılı, sesli ve ışıklı olarak uyarı verilmektedir. Bu uyarıları alan araç sahibi aracını çekmektedir. Rampaların önlerinde park eden araç olmaması tekerlekli sandalye kullanan bireyler için büyük önem taşımaktadır. Belki bizler için önemsiz olan bir park yeri onların günlük hayatlarında büyük bir sorun olmaktadır. 
